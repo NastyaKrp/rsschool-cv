@@ -73,9 +73,18 @@ function spinWords(string)
 
 ## Education:
 * [Html](https://ru.code-basics.com/languages/html), [Css](https://ru.code-basics.com/languages/css), [Js](https://ru.code-basics.com/languages/javascript) courses on Code Basics (completed)
-* Git course Epam (completed)
+* Git course EPAM (completed)
 * Itlogia Frontend Start (completed)
 
+## Languages:
+
+* English – B2 (result of EPAM test)
+
+![english level](b2.png)
+
+* Russian – Native
+
+* Belarusian – B1
 
 
 
