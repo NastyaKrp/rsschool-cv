@@ -26,6 +26,7 @@ I’m a disciplined, ambitious and open-minded person.
 
 * HTML5, CSS3
 * JavaScript
+* PHP
 * Figma, Adobe Photoshop 
 * Git, GitHub
 
@@ -69,12 +70,14 @@ function spinWords(string)
 ```
 
 ## Experience:
-[Example](https://nastyakrp.github.io/test/) of work during course (Itlogia Frontend Start)
+[Example](https://nastyakrp.github.io/rent_car_store/) of work during course (Itlogia Frontend Start)
 
 ## Education:
 * [Html](https://ru.code-basics.com/languages/html), [Css](https://ru.code-basics.com/languages/css), [Js](https://ru.code-basics.com/languages/javascript) courses on Code Basics (completed)
+* [PHP](https://ru.hexlet.io/courses/php-basics) (completed)
 * Git course EPAM (completed)
 * Itlogia Frontend Start (completed)
+* RS School "JavaScript/Front-end 2022Q3" (in process)
 
 ## Languages:
 
